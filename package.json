@@ -1,0 +1,29 @@
+{
+  "name": "restful-web-api-test",
+  "version": "1.0.0",
+  "description": "Esse projeto tem como propósito explorar a arquitetura REST, seus conceitos e objetivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaleSelaht/restful-web-api-test.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "nodejs",
+    "express"
+  ],
+  "author": "Thales Jota, thalespizza@gmai.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaleSelaht/restful-web-api-test/issues"
+  },
+  "homepage": "https://github.com/ThaleSelaht/restful-web-api-test#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodeunit": "^0.10.2"
+  }
+}
